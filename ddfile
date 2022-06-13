@@ -1,0 +1,4 @@
+# This is just created git file for project1
+ How to Add Credentials to the Windows Credential Manager Vault?
+
+Adding Git credentials on Windows Ideally, you should enter: git config --global credential.helper manager-core Then your password would be stored in the Windows Credential Manager
