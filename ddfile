@@ -2,3 +2,28 @@
  How to Add Credentials to the Windows Credential Manager Vault?
 
 Adding Git credentials on Windows Ideally, you should enter: git config --global credential.helper manager-core Then your password would be stored in the Windows Credential Manager
+upport for password authentication was removed on August 13, 2021. Please use a personal access token instead. This kind of error is shown when you push in github using password authentication now. So to fix this we can use access token on windows.
+
+For Linux - https://youtu.be/ytSoabxSQ6E
+
+➡️:Github Playlist ArjunCodes : 
+https://www.youtube.com/playlist?list...
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+➡️ Subscribe : https://www.youtube.com/codewitharjun
+
+Stay Connected : 
+➡️ LinkedIn : https://np.linkedin.com/in/arjungautam1
+➡️ Github :    https://github.com/arjungautam1
+
+Join Community : 
+➡️Discord : https://discord.gg/cn2x3jhMW4
+
+Follow me on : 
+➡️ Medium: https://codewitharjun.medium.com/
+➡️ Dev.to : https://dev.to/codewitharjun
+
+
+#git #github #passwordauthentiction #accesstoken #arjuncodes #CodeWithArjun
